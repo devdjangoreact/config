@@ -65,6 +65,9 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
+oscar/locale/
+locale
+
 # Environments
 .venv
 venv/
@@ -282,3 +285,4 @@ webpack-stats.json
 .env
 .envs/*
 !.envs/.local/
+
